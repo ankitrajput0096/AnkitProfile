@@ -491,7 +491,7 @@ h2 {
 .main__container-skill {
   clear: both;
   display: block;
-  margin: 40px 0 0 0;
+  margin: 10px 0 0 0;
   overflow: auto;
 }
 
@@ -526,7 +526,7 @@ h2 {
 }
 
 .main__container-skill {
-  margin-bottom: 40px;
+  margin-bottom: 0px;
   animation-delay: 1.4s;
 }
 
@@ -538,7 +538,7 @@ h2 {
 
 @media (min-width: 768px) {
   .main__container-skill {
-    margin-bottom: 80px;
+    margin-bottom: 20px;
   }
 }
 
