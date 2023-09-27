@@ -538,7 +538,8 @@ h2 {
 
 @media (min-width: 768px) {
   .main__container-skill {
-    margin-bottom: 20px;
+    margin-top: 15px;
+    margin-bottom: 10px;
   }
 }
 
@@ -615,7 +616,6 @@ h2 {
   position: relative;
   bottom: 0.2ex;
   margin-left: 20px;
-  content: "";
   color: #1560FB;
   font-family: "FontAwesome";
   font-size: 12px;
