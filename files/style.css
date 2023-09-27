@@ -506,12 +506,12 @@ h2 {
 }
 
 .main__container-projects {
-  animation-delay: 0.8s;
+  animation-delay: 1.4s;
 }
 
 @media (max-width: 768px) {
   .main__container-projects {
-    animation-delay: 1.2s;
+    animation-delay: 1.4s;
   }
 }
 
@@ -521,7 +521,7 @@ h2 {
 
 @media (max-width: 768px) {
   .main__container-experience {
-    animation-delay: 1.6s;
+    animation-delay: 1.0s;
   }
 }
 
@@ -532,7 +532,7 @@ h2 {
 
 @media (max-width: 768px) {
   .main__container-skill {
-    animation-delay: 1.8s;
+    animation-delay: 0.8s;
   }
 }
 
