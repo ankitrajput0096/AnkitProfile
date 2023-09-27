@@ -567,7 +567,7 @@ h2 {
 
 .main__project-description b {
   background-color: #E9F0FF;
-  font-weight: 400;
+  font-weight: bold;
 }
 
 .main__project-achivements b {
@@ -647,6 +647,10 @@ h2 {
   border-color: #1560FB;
 }
 
+.main__project-extra {
+  margin-bottom: 40px;
+  line-height: 26px;
+}
 
 .main__project-achivements {
   margin: 0;
